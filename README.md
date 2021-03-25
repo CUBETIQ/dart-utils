@@ -1,4 +1,7 @@
-A simple command-line application.
+# Function Utils (Collection of helpers)
+- String functions
+- Number functions
+- JSON functions
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+# Constributors
+- Sambo Chea <sombochea@cubetiqs.com>
